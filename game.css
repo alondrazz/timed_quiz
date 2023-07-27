@@ -9,7 +9,7 @@ body {
     width: 100%;
     border-radius: 4px;
     background: rgb(11, 69, 66);
-    font-size: 12px;
+    font-size: 50px;
     min-width: 30px;
 }
 .choice-container:hover {

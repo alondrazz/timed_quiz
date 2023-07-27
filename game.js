@@ -23,8 +23,8 @@ const quizQuestions = [
         answer: 1,
     },
     {
-        question: "How to add a paragraph in html?",
-        choices:["With <p>","with </p>"],
+        question: "How do you change only the color of the background?",
+        choices:["With color","With background-color"],
         answer: 1,
     },
     {
@@ -94,7 +94,7 @@ choices.forEach(choice => {
 
         }, 1000)
 
-        
+
     })
 })
 
